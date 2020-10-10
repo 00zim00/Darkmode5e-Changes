@@ -9,9 +9,9 @@
   "styles": ["dnd5edark.css", "betternpcsheet-dark.css", "dark-mode.css"],
   "esmodules": ["dnd5edark.js"],
   "packs": [],
-  "url": "https://github.com/stryxin/dnd5edark-foundryvtt",
-    "manifest": "https://raw.githubusercontent.com/stryxin/dnd5edark-foundryvtt/master/module.json",
-    "download": "https://github.com/Stryxin/dnd5edark-foundryvtt/raw/master/dnd5e-dark-mode.zip",
+  "url": "https://github.com/00zim00/Darkmode5e-Changes",
+    "manifest": "https://raw.githubusercontent.com/00zim00/Darkmode5e-Changes/master/module.json",
+    "download": "https://github.com/00zim00/Darkmode5e-Changes/archive/master.zip",
   "compatibleCoreVersion" : "0.6.2",
   "minimumCoreVersion": "0.6.0"
 }
