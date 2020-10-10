@@ -702,7 +702,7 @@
 .dark-mode .dndbcs.sheet.actor .form-group.spellcasting-ability label h3,
 .dark-mode .dndbcs.sheet.actor.character .sheet-body h4.box-title,
 .dark-mode .dndbcs label.hit-dice {
-	color: #bfbfbf
+	color: #bfbfbf !important;
 }
 
 .dark-mode .macro-sheet .form-group.command .furnace-macro-command textarea {
