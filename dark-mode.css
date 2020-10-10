@@ -247,11 +247,11 @@
 }
 
 .dark-mode .dnd5e.chat-card .card-header h3 {
-    color: #bfbfbf;
+    color: #bfbfbf !important;
 }
 
 .dark-mode .dnd5e.chat-card .card-header h3:hover {
-    color: #3f88e6;
+    color: #3f88e6 !important;
 	text-shadow: 0 0 10px #3F88E6;
 }
 
@@ -403,11 +403,11 @@
 }
 
 .dark-mode .dnd5e.sheet.actor .counters .counter h4 {
-    color: #b5b5b5;
+    color: #b5b5b5 !important;
 }
 
 .dark-mode .dnd5e.sheet.actor h4.box-title {
-    color: #b5b5b5;
+    color: #b5b5b5 !important;
     border-bottom: 1px solid #666;
 }
 
@@ -753,4 +753,21 @@
 .dark-mode .show-action-dropdown-button,
 .dark-mode .show-action-dropdown-content-actions button {
 	padding: 0px 8px;
+}
+.dark-mode .dnd5e.sheet.actor .inventory-list .item .item-name h4 {
+    color: #b5b5b5 !important;
+}
+
+.dark-mode .dnd5e.sheet.actor .inventory-list .item .item-name h3 {
+    color: #b5b5b5 !important;
+}
+
+.dark-mode .dnd5e.sheet.actor .counters .counter input[type="text"],
+.dark-mode .dnd5e.sheet.actor .counters .counter input[type="number"], {
+    color: #b5b5b5 !important;
+}
+
+.dark-mode .dnd5e.dnd5e.sheet.actor .ability-scores .ability input.ability-score,
+.dark-mode .dnd5e.sheet.actor ul.attributes li.attribute .attribute-value {
+    color: #b5b5b5 !important;
 }
