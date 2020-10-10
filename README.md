@@ -1,5 +1,4 @@
-(The module wasn't working after the CSS sheet update and the original creator didn't plan to fix it any time soon. I am no programmer, but I have attempted to manually fix it myself. I do not plan to take over this project I just wished for it to work until such time it is updated ofically. I did not create the code and when or if Darkmode5e is updated by the creator i will be deleting this. Thank you!)
-
+(The module wasn't working after the CSS sheet update and the original creator didn't plan to fix it any time soon. I am no programmer, but I have attempted to manually fix it myself. I do not plan to take over this project I just wished for it to work until such time it is updated officially. I did not create the code and when or if Darkmode5e is updated by the creator i will be deleting this. Thank you!)
 
 # D&D5E Dark Mode - Foundry VTT
 
