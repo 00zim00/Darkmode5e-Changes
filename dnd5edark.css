@@ -1,23 +1,23 @@
 .dnd5edark.sheet a:hover {
 	color: #3F88E6 !important;
-  text-shadow: 0 0 4px #1cfc03;
+  text-shadow: 0 0 4px #3F88E6;
 }
 .dnd5edark.sheet select:hover {
-  text-shadow: 0 0 4px #1cfc03;
-  box-shadow: 0 0 4px #1cfc03;
+  text-shadow: 0 0 4px #3F88E6;
+  box-shadow: 0 0 4px #3F88E6;
 }
 
 .dnd5edark.sheet button:hover {
-	box-shadow: 0 0 10px #1cfc03
+	box-shadow: 0 0 10px #3F88E6
 }
 .dnd5edark.sheet select {
   box-shadow: none;
 }
 .dnd5edark.sheet .editor-content>ul {
-  color: #1cfc03 !important;
+  color: #00b8ff !important;
 }
 .dnd5edark.sheet.item .magic-items-content input[type="text"], .dnd5edark.sheet.item .magic-items-content select {
-    background: #1cfc03 !important;
+    background: #191919 !important;
 }
 
 .dnd5edark.sheet.actor .spell-component.C, .dnd5edark.sheet.actor .spell-component.R {
