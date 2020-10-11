@@ -771,3 +771,7 @@
 .dark-mode .dnd5e.sheet.actor ul.attributes li.attribute .attribute-value {
     color: #b5b5b5 !important;
 }
+
+.dark-mode .dnd5e.sheet.actor ul.attributes li.attribute .attribute-value > * {
+    color: #b5b5b5 !important;
+}
