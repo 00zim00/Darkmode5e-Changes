@@ -377,3 +377,8 @@
     color: #b5b5b5 !important;
     border-bottom: 1px solid #666;
 }
+
+.dnd5e.sheet.actor ul.attributes li.attribute .attribute-value > * {
+    color: #b5b5b5 !important;
+}
+
