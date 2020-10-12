@@ -366,8 +366,8 @@
     border-bottom: 1px solid #666;
 }
 
-.dnd5edark..sheet.actor .inventory-list .item-name {
-    color: #b5b5b5 ;
+.dnd5edark.sheet.actor .inventory-list .item-name {
+    color: #b5b5b5;
     border-bottom: 1px solid #666;
 }
 
