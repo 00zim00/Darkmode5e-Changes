@@ -368,8 +368,8 @@
 }
 
 .dark-mode .dnd5e.sheet .editable .rollable:hover {
-  color: #3F88E6;
-  text-shadow: 0 0 10px #3F88E6;
+  color: #3F88E6 !important;
+  text-shadow: 0 0 10px #3F88E6 !important;
 }
 
 .dark-mode section.token-mold {
