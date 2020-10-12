@@ -366,9 +366,7 @@
     border-bottom: 1px solid #666;
 }
 
-.dnd5edark.sheet.actor .counters .counter input[type="number"],
-.dnd5edark.sheet.actor .counters .counter input[type="text"],
-    input, select, {
+.dnd5edark.sheet.actor .counters .counter > * {
     color: #b5b5b5;
 }
 
