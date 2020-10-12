@@ -247,11 +247,11 @@
 }
 
 .dark-mode .dnd5e.chat-card .card-header h3 {
-    color: #bfbfbf !important;
+    color: #bfbfbf;
 }
 
 .dark-mode .dnd5e.chat-card .card-header h3:hover {
-    color: #3f88e6 !important;
+    color: #3f88e6;
 	text-shadow: 0 0 10px #3F88E6;
 }
 
@@ -403,11 +403,11 @@
 }
 
 .dark-mode .dnd5e.sheet.actor .counters .counter h4 {
-    color: #b5b5b5 !important;
+    color: #b5b5b5;
 }
 
 .dark-mode .dnd5e.sheet.actor h4.box-title {
-    color: #b5b5b5 !important;
+    color: #b5b5b5;
     border-bottom: 1px solid #666;
 }
 
@@ -702,7 +702,7 @@
 .dark-mode .dndbcs.sheet.actor .form-group.spellcasting-ability label h3,
 .dark-mode .dndbcs.sheet.actor.character .sheet-body h4.box-title,
 .dark-mode .dndbcs label.hit-dice {
-	color: #bfbfbf !important;
+	color: #bfbfbf;
 }
 
 .dark-mode .macro-sheet .form-group.command .furnace-macro-command textarea {
