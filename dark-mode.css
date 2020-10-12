@@ -762,8 +762,11 @@
     color: #b5b5b5;
 }
 
-.dark-mode .dnd5e.sheet.actor .counters .counter,
-.dark-mode .dnd5e.sheet.actor .counters .counter {
+.dnd5e.sheet.actor .counters .counter input[type="text"] {
+    color: #b5b5b5;
+}
+
+.dnd5e.sheet.actor .counters .counter input[type="number"] {
     color: #b5b5b5;
 }
 
