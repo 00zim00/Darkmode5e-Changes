@@ -357,12 +357,17 @@
 }
 
 .dnd5edark.sheet.actor .inventory-list .item .item-name h4 {
-    color: #b5b5b5 !important;
+    color: #b5b5b5 ;
     border-bottom: 1px solid #666;
 }
 
 .dnd5edark.sheet.actor .inventory-list .item .item-name h3 {
     color: #b5b5b5 !important;
+    border-bottom: 1px solid #666;
+}
+
+.dnd5edark..sheet.actor .inventory-list .item-name {
+    color: #b5b5b5 ;
     border-bottom: 1px solid #666;
 }
 
