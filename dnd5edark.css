@@ -390,7 +390,3 @@ dnd5edark.sheet .editable .rollable:hover {
     color: #b5b5b5;
 }
 
-.dnd5edark.sheet.actor .inventory-list .item .item-name h4 {
-    color: #b5b5b5;
-    border-bottom: 1px solid #666;
-}
