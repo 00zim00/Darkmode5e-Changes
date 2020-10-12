@@ -98,8 +98,8 @@
   background: #191919;
 }
 .dnd5edark.sheet .editable .rollable:hover {
-  color: #3F88E6;
-  text-shadow: 0 0 10px #3F88E6;
+  color: #3F88E6 !important;
+  text-shadow: 0 0 10px #3F88E6 !important;
 }
 .dnd5edark.sheet .editor .tox-toolbar-overlord,
 .dnd5edark.sheet .editor .tox-toolbar__primary {
