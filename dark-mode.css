@@ -781,8 +781,7 @@
     border-bottom: 1px solid #666;
 }
 
-.dark-mode .dnd5e input[type="text"],
-.dark-mode .dnd5e input[type="number"],
-.dark-mode .dnd5e select  {
+.dark-mode .dnd5e.sheet.actor .counters .counter input[type="text"],
+.dark-mode .dnd5e.sheet.actor .counters .counter input[type="number"] {
     color: #b5b5b5;
 }
