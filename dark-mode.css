@@ -754,9 +754,6 @@
 .dark-mode .show-action-dropdown-content-actions button {
 	padding: 0px 8px;
 }
-.dark-mode .dnd5e.sheet.actor .inventory-list .item .item-name h4 {
-    color: #b5b5b5;
-}
 
 .dark-mode .dnd5e.sheet.actor .inventory-list .item .item-name h3 {
     color: #b5b5b5;
@@ -785,3 +782,8 @@
 .dark-mode .dnd5e.sheet.actor .counters .counter input[type="number"] {
     color: #b5b5b5;
 }
+
+.dark-mode .dnd5e.sheet.actor .inventory-list .item .item-name h4 {
+    color: #b5b5b5;
+}
+
