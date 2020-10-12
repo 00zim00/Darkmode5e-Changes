@@ -635,6 +635,7 @@
 .dark-mode .alt5e.dnd5e.sheet.actor .traits i.fas:hover,
 .dark-mode .dnd5e.sheet.item .sheet-navigation .item:hover,
 .dark-mode .dnd5e.sheet.item .sheet-navigation .item.active {
+	color: #b5b5b5;
 	text-shadow: 0px 0px 10px #3f88e6;
 }
 
