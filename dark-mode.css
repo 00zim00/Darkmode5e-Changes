@@ -780,3 +780,9 @@
     color: #b5b5b5;
     border-bottom: 1px solid #666;
 }
+
+.dark-mode .dnd5e input[type="text"],
+.dark-mode .dnd5e input[type="number"],
+.dark-mode .dnd5e select  {
+    color: #b5b5b5;
+}
