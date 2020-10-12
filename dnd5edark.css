@@ -390,8 +390,7 @@ dnd5edark.sheet .editable .rollable:hover {
     border-bottom: 1px solid #666;
 }
 
-.dnd5edark. input[type="text"],
-.dnd5edark. input[type="number"],
-.dnd5edark. select  {
+.dnd5edark.sheet.actor .counters .counter input[type="text"],
+.dnd5edark.sheet.actor .counters .counter input[type="number"]  {
     color: #b5b5b5;
 }
