@@ -389,3 +389,8 @@ dnd5edark.dnd5e.sheet.actor .counters .counter input[type="text"] {
 dnd5edark.sheet .editable .rollable:hover {
     color: #3F88E6;
 }
+
+dnd5edark.sheet.actor .inventory-list .inventory-header h3 {
+    color: #b5b5b5;
+    border-bottom: 1px solid #666;	
+}
