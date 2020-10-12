@@ -366,10 +366,9 @@
     border-bottom: 1px solid #666;
 }
 
-.dnd5e.sheet.actor .counters .counter input[type="text"],
-.dnd5e.sheet.actor .counters .counter input[type="number"] {
-    color: #b5b5b5 !important;
-    border-bottom: 1px solid #666;
+.dnd5e.sheet.actor .counters .counter input,
+.dnd5e.sheet.actor .counters .counter input {
+    color: #b5b5b5;
 }
 
 .dnd5e.dnd5e.sheet.actor .ability-scores .ability input.ability-score,
