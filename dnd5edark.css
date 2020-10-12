@@ -356,11 +356,6 @@
     filter: invert(1);
 }
 
-.dnd5edark.sheet.actor .inventory-list .item .item-name h4 {
-    color: #b5b5b5 ;
-    border-bottom: 1px solid #666;
-}
-
 .dnd5edark.sheet.actor .inventory-list .item .item-name h3 {
     color: #b5b5b5 !important;
     border-bottom: 1px solid #666;
@@ -393,4 +388,9 @@ dnd5edark.sheet .editable .rollable:hover {
 .dnd5edark.sheet.actor .counters .counter input[type="text"],
 .dnd5edark.sheet.actor .counters .counter input[type="number"]  {
     color: #b5b5b5;
+}
+
+.dnd5edark.sheet.actor .inventory-list .item .item-name h4 {
+    color: #b5b5b5;
+    border-bottom: 1px solid #666;
 }
