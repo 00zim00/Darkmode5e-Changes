@@ -389,3 +389,9 @@ dnd5edark.sheet .editable .rollable:hover {
     color: #b5b5b5;
     border-bottom: 1px solid #666;
 }
+
+.dnd5edark. input[type="text"],
+.dnd5edark. input[type="number"],
+.dnd5edark. select  {
+    color: #b5b5b5;
+}
