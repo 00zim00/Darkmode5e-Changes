@@ -381,3 +381,6 @@ dnd5edark.dnd5e.sheet.actor .counters .counter input[type="text"] {
     color: #b5b5b5 !important;
 }
 
+dnd5edark.sheet .editable .rollable:hover {
+    color: #3F88E6;
+}
