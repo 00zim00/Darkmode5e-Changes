@@ -755,23 +755,23 @@
 	padding: 0px 8px;
 }
 .dark-mode .dnd5e.sheet.actor .inventory-list .item .item-name h4 {
-    color: #b5b5b5 !important;
+    color: #b5b5b5;
 }
 
 .dark-mode .dnd5e.sheet.actor .inventory-list .item .item-name h3 {
-    color: #b5b5b5 !important;
+    color: #b5b5b5;
 }
 
 .dark-mode .dnd5e.sheet.actor .counters .counter input[type="text"],
 .dark-mode .dnd5e.sheet.actor .counters .counter input[type="number"], {
-    color: #b5b5b5 !important;
+    color: #b5b5b5;
 }
 
 .dark-mode .dnd5e.dnd5e.sheet.actor .ability-scores .ability input.ability-score,
 .dark-mode .dnd5e.sheet.actor ul.attributes li.attribute .attribute-value {
-    color: #b5b5b5 !important;
+    color: #b5b5b5;
 }
 
 .dark-mode .dnd5e.sheet.actor ul.attributes li.attribute .attribute-value > * {
-    color: #b5b5b5 !important;
+    color: #b5b5b5;
 }
