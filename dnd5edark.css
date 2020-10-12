@@ -366,8 +366,8 @@
     border-bottom: 1px solid #666;
 }
 
-.dnd5e.sheet.actor .counters .counter input,
-.dnd5e.sheet.actor .counters .counter input {
+.dnd5e.sheet.actor .counters .counter,
+.dnd5e.sheet.actor .counters .counter {
     color: #b5b5b5;
 }
 
